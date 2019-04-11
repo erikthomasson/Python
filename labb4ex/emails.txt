@@ -1,0 +1,36 @@
+larsh@gmail
+plainaddress
+firstname+lastname@example.com
+1234567890@example.com
+@example.com
+lara@bth.se
+email@example@example.com
+britts_54@bth.se
+Joe Smith <email@example.com>
+email@example
+_______@example.com
+email@example.co.jp
+firstname-lastname@example.com
+firstname.lastname@example.com
+.email@example.com
+email@[123.123.123.123]
+brian-23@bth.se
+email@example.museum
+email@subdomain.example.com
+email@example.web
+email@example.com (Joe Smith)
+email.@example.com
+?????@example.com
+email@-example.com
+email@example..com
+email@example.name
+iota_98@bth.se
+email..email@example.com
+#@%^%#$@#$@#.com
+"email"@example.com
+email@123.123
+email@111.222.333.44444
+email@example-one.com
+Abc..123@example.com
+email.example.com
+email@example.com

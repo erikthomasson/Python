@@ -1,0 +1,16 @@
+def sqrt_Newton(k, guess):
+    '''Newton-Raphsons metod av Erik Thomasson'''
+    iterations=1
+
+    while guess != 0 and (abs(guess - (guess + (guess**2 - k)/(2 * guess))) >= 0.000005):
+        iterations += 1
+        guess = guess - ((guess**2 - k)/(2 * guess))
+    if guess == 0:
+        print('Error: Divide by zero is illegal!')
+    else:
+        print('Nr of iterations:', iterations)
+
+    return guess
+
+
+
